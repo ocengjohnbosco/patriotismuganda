@@ -1,0 +1,450 @@
+
+		body{
+			margin: 0;
+			
+			-webkit-background-size: cover;
+			background-size: cover;
+			background-position:
+			margin-top:0 auto;
+			background:#e8e8e8;
+			width: 100%;
+		}
+
+		.nav{
+			width: 100%;
+			background: #653a01;
+			height: 80px;
+		}
+		ul{
+			list-style: none;
+			padding-top: 0;
+			margin: 0;
+			position: absolute;
+
+		}
+
+		ul li{
+			float: left;
+			margin-top: 10px;
+		}
+		ul li a{
+			width: 140px;
+			color: white;
+			display: block;
+			text-decoration: none;
+			font-size: 16px;
+			text-align: center;
+			padding: 10px;
+			border-radius: 10px;
+			font-family: century-gothic;
+			font-weight: bold;
+		}
+		a:hover{
+
+			background: black;
+		}
+		ul li ul{
+			background: lightblue;
+
+		}
+
+		ul li ul li{
+			float: none;
+
+		}
+		ul li ul{
+			display: none;
+		}
+		ul li:hover ul{
+			display: block;
+			order: initial;
+		}
+
+	.corel{
+		background-color: #e8e8e8;
+		width: 100%;
+		
+	}
+
+.carousel-item{
+	width: 80%;
+	height: 500px;
+}
+
+.d-block w-100{
+	width: 80%;
+	height: 300px;
+}
+.login{
+	background-color: #e65226;
+	color: white;
+	border-radius: 5px;
+	width: 15%;
+	font-size: 30px;
+}
+
+.heading{
+	background-color: #1a4a26;
+	width: 100%;
+	height: 110px;
+	display: flex;
+	font-family: Time new roman;
+	color: white;
+	text-align: left;
+	padding-top: 05px;
+	padding-left: 30px;
+
+}
+
+.tophead{
+	background-color: #1a4a26;
+	width: 97.6%;
+	height: 110px;
+	display: flex;
+	font-family: Time new roman;
+	color: white;
+	text-align: left;
+	padding-top: 05px;
+	padding-left: 30px;
+
+}
+
+.court{
+	width: 10%;
+	height: 100px;
+	padding-right: 0;
+	padding-left: px;
+	margin: 0 auto;
+}
+
+.nation{
+	text-align: center;
+	padding-top: 20px;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+.bg{
+
+}
+
+.ding{
+	background-color: black;
+	width: 100%;
+	height: 10px;
+}
+
+.dung{
+	background-color: yellow;
+	width: 100%;
+	height: 10px;
+}
+
+.dong{
+	background-color: red;
+	width: 100%;
+	height: 10px;
+}
+
+.bardge{
+	width: 10%;
+	height: 100px;
+}
+
+.bottom{
+	background-color: #e8e8e8;
+	width: 100%;
+	height: 500px;
+	color: red;
+}
+
+.Watch{
+	display: flex;
+	width: 100%;
+
+	padding-left: 30px;
+	background-color: #e8e8e8;
+	padding-right: 30px;
+	border: 3px;
+	border-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.paragra{
+
+	border-color: red;
+	border:3;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.weekend{
+	background-color: #e8e8e8;
+	text-align: center;
+	font-size: 40px;
+	font-family: time new roman;
+	color: red;
+}
+
+.anthem{
+	background-color: #e8e8e8;
+}
+
+.dehydration{
+	width: 47%;
+
+}
+
+.obesity{
+	width: 47%;
+
+}
+
+.mainanthem{
+	display: flex;
+	width: 100%;
+	background-color: #e8e8e8;
+	text-align: center;
+}
+
+.Kiswahili{
+	width: 49%;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+.English{
+	width: 49%;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.between{
+	width: 1%;
+	background-color: pink;
+	padding-left: 1px;
+	padding-right: 1px;
+	justify-content: space-around;
+
+
+}
+
+.chorus{
+	text-align: center;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.center{
+	text-align: left;
+
+}
+.cent{
+	text-align: left;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.kiswa{
+	display: flex;
+	background-color: #e8e8e8;
+	width: 90%;
+	text-align: center;
+	padding-top: 5px;
+	padding-left: 125px;
+	font-size: 20px;
+}
+.kis{
+	width: 80%;
+	text-align: center;
+}
+
+.usleft{
+	padding-left: 120px;
+	padding-right: 120px;
+}
+
+.aboutus{
+	width: 100%;
+	background-color: #e8e8e8;
+	font-size: 25px;
+	padding-top: 10px;
+
+}
+
+.sports{
+	width: 100%;
+	display: flex;
+}
+
+.sport{
+	width: 45%;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.cranes{
+	width: 45%;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.patcourse{
+
+	text-align: left;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.botto{
+	display: flex;
+	width: 100%;
+	height: 150px;
+	background-color: #8a4500;
+}
+
+.bototop{
+	width: 45%;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 10px;
+	word-break: normal;
+}
+
+.botomid{
+	width: 10%;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 10px;
+}
+.botodown{
+	width: 45%;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 10px;
+}
+
+.bottoclient{
+	display: flex;
+	width: 100%;
+	height: 180px;
+	background-color: #8a4500;
+	font-size: 25px;
+	line-height:0;
+	padding-top: 0;
+
+
+}
+
+.topclient{
+	width: 45%;
+	padding-top: 0;
+	padding-left: 30px;
+	padding-right: 10px;
+	line-height: 0;
+	
+}
+
+
+.midclient{
+	width: 0;
+	padding-top: 0 auto;
+	padding-left: 30px;
+	padding-right: 10px;
+	line-height: 0.5;
+
+}
+
+.downclient{
+	width: 45%;
+	padding-top: 0.1px;
+	padding-left: 30px;
+	padding-right: 10px;
+	line-height: 0;
+
+}
+.downbottom{
+	background-image: url(avat.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position:
+	width: 100%;
+	height: 150px;
+	display: flex;
+}
+
+.ugan{
+	padding-top: 30px;
+	width: 40%;
+	height: 10px;
+	padding-left: 20px;
+}
+
+.corps{
+	width: 50%;
+	height: 10px;
+	color: white;
+	padding-top: 30px;
+	padding-left: 300px;
+}
+
+.personate a{
+	text-decoration: none;
+	padding-left: 40px;
+}
+
+.per{
+	text-align: ;
+}
+
+.sonate a{
+	text-decoration: none;
+	padding-left: 90px;
+}
+
+.sona{
+	padding-left: 90px;
+}
+
+.niler{
+	width: 95%;
+	padding-left: 30px;
+}
+
+.river{
+	display: flex;
+	width: 90%;
+
+}
+
+.lever{
+	display: flex;
+	width: 90%;
+	padding-left: 30px;
+}
+
+.river{
+	padding-left: 30px;
+}
+.ever{
+	padding-left: 40px;
+}
+.everest{
+	padding-left: 90px;
+}
+
+.link{
+	display: flex;
+	padding-left: 30px;
+}
+
+.ween{
+	width: 100%;
+	height: 15px;
+	background-color: pink;
+}
